@@ -1,5 +1,3 @@
-// #[warn(unused_attributes)]
-
 mod protocols;
 
 use pnet::datalink::{self, Channel::Ethernet};
